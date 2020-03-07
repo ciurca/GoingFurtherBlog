@@ -4,7 +4,7 @@ author = "Radu Ciurca"
 canonifyurls = true
 paginate = 3
 theme = "aether"
-googleAnalytics = "Your google analytics tracking ID"
+googleAnalytics = "UA-159982567-1"
 disqus = "raduciurca"
 
 [params]
