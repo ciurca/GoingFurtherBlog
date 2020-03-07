@@ -1,0 +1,13 @@
+baseurl = "https://unruffled-hoover-d59d74.netlify.com/"
+title = "Going Further"
+author = "Radu Ciurca"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+googleAnalytics = "Your google analytics tracking ID"
+disqus = "raduciurca"
+
+[params]
+brand = "Going Further"
+description = "Radu Ciurca's blog"
+bgimg = "img/ignasi_pattern_s.png"
