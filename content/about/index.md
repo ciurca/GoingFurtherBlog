@@ -1,8 +1,10 @@
 +++
-title = "About Going Further"
-displayInMenu = true
+date = 2020-03-06T22:00:00Z
 displayInList = true
+displayInMenu = true
 dropCap = true
+title = "About Going Further"
+
 +++
 **Going Further** is a challange to myself to write short essays (blog posts) about things that interest me and would also be practical to know for the reader.
 
