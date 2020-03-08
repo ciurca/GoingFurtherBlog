@@ -1,9 +1,9 @@
 +++
-displayInList = false
+date = "2020"
+displayInList = true
 displayInMenu = true
 dropCap = true
 title = "Quotes"
-date = "2020"
 
 +++
 This is a list of quotes (and some notes) that I'm constantly updating, taken from different things that I’ve read, listened or watched. I believe that a quote gives you an insight into **how and what that particular person thinks**.
