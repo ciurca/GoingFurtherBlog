@@ -28,4 +28,4 @@ Some of these are also notes in the form of quotes, you'll be able to distinguis
 * "Nothing changes if nothing changes." - VA
 * “**No one can lose either the past or the future** - how **could** anyone be deprived of what he does not possess? ... It is only the present moment of which **either** stands to be deprived: and if this is all he has, he cannot **lose** what he does not have.” - Marcus Aurelius
 
-The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter @raduciurca, for more thoughts and ideas. We will be **going further**.
+The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter **@raduciurca**, for more thoughts and ideas. We will be **going further**.
