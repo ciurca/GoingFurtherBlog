@@ -14,4 +14,4 @@ If a quote doesn’t necessarily have an author or if it’s a common saying I�
 ## The list
 
 * “Nothing costs nothing” - VA
-* 
+* "Potters envy potters" - Aristotle
