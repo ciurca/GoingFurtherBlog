@@ -14,3 +14,5 @@ fields:
 - type: boolean
   name: dropCap
   label: dropCap
+pages:
+- content/quotes.md
