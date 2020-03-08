@@ -4,7 +4,6 @@ date = ""
 description = "The indefinite list of quotes I enjoy."
 displayInList = true
 displayInMenu = true
-draft = true
 dropCap = true
 title = "Quotes"
 [[resources]]
