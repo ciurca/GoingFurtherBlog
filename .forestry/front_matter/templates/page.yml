@@ -1,0 +1,16 @@
+---
+label: page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: displayInMenu
+  label: displayInMenu
+- type: boolean
+  name: displayInList
+  label: displayInList
+- type: boolean
+  name: dropCap
+  label: dropCap
