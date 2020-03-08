@@ -1,7 +1,7 @@
 +++
 title = "About Going Further"
 displayInMenu = true
-displayInList = false
+displayInList = true
 dropCap = true
 +++
 **Going Further** is a challange to myself to write short essays (blog posts) about things that interest me and would also be practical to know for the reader.
