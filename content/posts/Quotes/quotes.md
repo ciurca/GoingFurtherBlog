@@ -7,8 +7,9 @@ displayInMenu = true
 dropCap = true
 title = "Quotes"
 [[resources]]
-name = "featuredImage"
-src = "QuotesThumbnail-GoingFurther.jpg"
+resources:
+- name: featuredImage
+  src: "QuotesThumbnail-GoingFurther.jpg"
 [resources.params]
 description = "Thumbnail - Quotes"
 
