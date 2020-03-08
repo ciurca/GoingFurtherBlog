@@ -1,25 +1,16 @@
 +++
-title = "Getting Started with Hugo"
-featuredImage = "img/andrew-neel-609846-unsplash.jpg"
+categories = ["Development", "golang"]
+date = 2014-04-02T00:00:00Z
+displayInList = false
 displayInMenu = false
-displayInList = true
-draft = false
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
-date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
+featuredImage = "img/andrew-neel-609846-unsplash.jpg"
+tags = ["go", "golang", "hugo", "development"]
+title = "Getting Started with Hugo"
 [[resources]]
-  name = "featuredImage"
-  src = "andrew-neel-609846-unsplash.jpg"
-+++
+name = "featuredImage"
+src = "andrew-neel-609846-unsplash.jpg"
 
++++
 ## Step 1. Install Hugo
 
 Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
