@@ -1,14 +1,14 @@
 ---
 date: 2014-03-10
 displayInMenu: false
-displayInList: true
-draft: false
+displayInList: false
 title: Migrate to Hugo from Jekyll
 resources:
 - name: featuredImage
-  src: "yan-ots-257617-unsplash.jpg"
----
+  src: yan-ots-257617-unsplash.jpg
+draft: true
 
+---
 ## Move static content to `static`
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
 With Jekyll, something that looked like
