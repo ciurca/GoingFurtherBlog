@@ -1,5 +1,5 @@
 +++
-displayInList = true
+displayInList = false
 displayInMenu = true
 dropCap = true
 title = "Quotes"
