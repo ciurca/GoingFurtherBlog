@@ -11,7 +11,7 @@ This is a list of quotes (and some notes) that I'm constantly updating, taken fr
 
 If a quote doesn’t necessarily have an author or if it’s a common saying I’ll put **VA** besides it (Various Authors). If you see a quote that you know for a fact has a certain author, you can let me know on Twitter @raduciurca.
 
-Some of these are also notes in the form of quotes, you'll be able to distinguish them. 
+Some of these are also notes in the form of quotes, you'll be able to distinguish them.
 
 ## The list
 
