@@ -8,9 +8,9 @@ dropCap = true
 title = "Quotes"
 [[resources]]
 name = "featuredImage"
-src = ""
+src = "QuotesThumbnail-GoingFurther.jpg"
 [resources.params]
-description = ""
+description = "Thumbnail - Quotes"
 
 +++
 This I a list of quotes from different things that I've read, listened or watched.
