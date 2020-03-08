@@ -1,5 +1,5 @@
 +++
-date = "2020"
+date = 2020-03-07T22:00:00Z
 displayInList = true
 displayInMenu = true
 dropCap = true
