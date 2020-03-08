@@ -2,9 +2,9 @@
 categories = []
 date = 2020-03-06T22:00:00Z
 description = "Big description"
-displayInList = true
-displayInMenu = true
-dropCap = true
+displayInList = false
+displayInMenu = false
+dropCap = false
 title = "Cool example"
 [[resources]]
 name = "featuredImage"
