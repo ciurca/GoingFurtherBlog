@@ -22,7 +22,7 @@ First, we need to define what a stupid person is. In his short book {{< target-b
 You might think, 'wait a second that doesn't make any sense, why would anyone cause a loss, while they gain absolutely nothing in return'. I wouldn't blame you, that's what I originally thought. But think of the times somebody stood in your way when you were trying to be productive, whilst they didn't gain from standing in your way. Stupid people are irrational, unreasonable and unpredictable, that's why it is so hard to reason with them or rather, make sense of their behavior. That's why they're so dangerous.
 
 Of course, there are a few distinctions to be made. How do you distinct stupid people from the rest? Again, Cipolla offers us 4 main categories in which humans fall.
-{{< zoom-img src="stupidity.svg" >}}
+{{< zoom-img src="stupidity.svg" title="(fig. 1)">}}
 (fig. 1)
 
 As you can see above, you can categorize people based on their incentives in a certain situation. So, using the graph (fig. 1) we can categorize someone based on their motivations and the way they act:
