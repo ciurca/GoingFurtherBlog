@@ -1,9 +1,9 @@
 ---
-title: "Are you underestimating the amount of stupidity around you?"
+title: "Quotes"
 date: 2020-03-10
 description: "My favorite quotes. I update this list constantly."
 dropCap: true
-displayInMenu: false
+displayInMenu: true
 displayInList: true
 draft: false
 resources:
