@@ -1,7 +1,7 @@
 ---
 title: "Are you underestimating the amount of stupidity around you?"
 date: 2020-04-10
-description: "You encounter more stupid people every day then you think, you may just not realize it. I'm going to help you find them."
+description: "You encounter more stupid people every day than you think, you may just not realize it. I'm going to help you find them."
 categories: ['stupidity']
 dropCap: true
 displayInMenu: false
@@ -13,7 +13,7 @@ resources:
   params:
     description: "Stupidity"
 ---
-You encounter more stupid people every day then you think, you may just not realize it. I'm going to help you find them.
+You encounter more stupid people every day than you think, you may just not realize it. I'm going to help you find them.
 
 First, we need to define what a stupid person is. In his short book "The Basic Laws of Human Stupidity", Carlo Cipolla describes a stupid person as follows:
 
