@@ -59,14 +59,24 @@ Kanye West:
 
 > "Everything I'm not made me everything I am."
 
-> "Life does not ask us what we want, it presents us with options." **- Thomas Sowell**
+Thomas Sowell:
 
-> "It is the quantity dose that makes the poison." **- VA**
+> "Life does not ask us what we want, it presents us with options."
 
-> "Nothing changes if nothing changes." **- VA**
+VA:
 
-> “**No one can lose either the past or the future** - how **could** anyone be deprived of what he does not possess? ... It is only the present moment of which **either** stands to be deprived: and if this is all he has, he cannot **lose** what he does not have.” **- Marcus Aurelius**
+> "It is the quantity dose that makes the poison."
 
->"Our intuition about what's hard and easy is really flawed as human beings." **- Lex Fridman**
+VA:
 
-The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter **@raduciurca**, for more thoughts and ideas. We will be **going further**.
+> "Nothing changes if nothing changes."
+
+Marcus Aurelius:
+
+> “**No one can lose either the past or the future** - how **could** anyone be deprived of what he does not possess? ... It is only the present moment of which **either** stands to be deprived: and if this is all he has, he cannot **lose** what he does not have.”
+
+Lex Fridman:
+
+>"Our intuition about what's hard and easy is really flawed as human beings."
+
+The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter {{< target-blank "@raduciurca" "https://twitter.com/raduciurca" >}}, for more thoughts and ideas. We will be **going further**.
