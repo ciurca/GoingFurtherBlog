@@ -15,8 +15,9 @@ resources:
 ---
 You encounter more stupid people every day then you think, you may just not realize it. I'm going to help you find them.
 
-First, we need to define what a stupid person is. In his short book "The Basic Laws of Human Stupidity", Carlo Cipolla describes a stupid person as follows: 
->A stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and even possibly incurring losses.
+First, we need to define what a stupid person is. In his short book "The Basic Laws of Human Stupidity", Carlo Cipolla describes a stupid person as follows:
+
+> A stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and even possibly incurring losses.
 
 You might think, 'wait a second that doesn't make any sense, why would anyone cause a loss, while they gain absolutely nothing in return'. I wouldn't blame you, that's what I originally thought. But think of the times somebody stood in your way when you were trying to be productive, whilst they didn't gain from standing in your way. Stupid people are irrational, unreasonable and unpredictable, that's why it is so hard to reason with them or rather, make sense of their behavior. That's why they're so dangerous.
 
@@ -46,7 +47,3 @@ In order to minimize the rise of stupid people in positions of power you need to
 And so, in conclusion, I'm going to leave you with a quote by the great Marcus Aurelius:
 
 > **Waste no** more **time** arguing what a good man should be. Be one.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
