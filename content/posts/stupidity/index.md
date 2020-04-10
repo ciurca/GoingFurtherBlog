@@ -22,8 +22,7 @@ First, we need to define what a stupid person is. In his short book {{< target-b
 You might think, 'wait a second that doesn't make any sense, why would anyone cause a loss, while they gain absolutely nothing in return'. I wouldn't blame you, that's what I originally thought. But think of the times somebody stood in your way when you were trying to be productive, whilst they didn't gain from standing in your way. Stupid people are irrational, unreasonable and unpredictable, that's why it is so hard to reason with them or rather, make sense of their behavior. That's why they're so dangerous.
 
 Of course, there are a few distinctions to be made. How do you distinct stupid people from the rest? Again, Cipolla offers us 4 main categories in which humans fall.
-{{< zoom-img src="stupidity.svg" title="(fig. 1)">}}
-(fig. 1)
+{{< zoom-img src="stupidity.svg" title="Fig. 1">}}
 
 As you can see above, you can categorize people based on their incentives in a certain situation. So, using the graph (fig. 1) we can categorize someone based on their motivations and the way they act:
 
@@ -33,8 +32,7 @@ As you can see above, you can categorize people based on their incentives in a c
 - **Bandits**: thieves, they gain something while the other party loses something
 
 Here are some practical examples:
-{{< zoom-img src="examples.svg" title="ff">}}
-(fig. 2)
+{{< zoom-img src="examples.svg" title="Fig. 2">}}
 
 It's important to realize that stupid people aren't concentrated in one social category. You find the same percentage of stupid people among Nobel laureates as you do among blue-collar workers. Just because somebody has a prize or a high function associated to their name doesn't make them intelligent. They are still stupid. Not only they are stupid, but the whole system is ridiculous for rewarding these types of people.
 
