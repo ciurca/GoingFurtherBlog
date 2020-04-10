@@ -16,13 +16,18 @@ Some of these are also notes in the form of quotes, you'll be able to distinguis
 
 > “Nothing costs nothing.” - VA
 
+
 > "Potters envy potters." - Aristotle
 
-* "Nothing is more convincing than your own beliefs." - VA (introspection illusion)
-* "Forget trying to amass al the data. Do your best to get by with the bare facts." - VA (information bias)
-* "People readily believe what they want to believe." - Julius Caesar
-* **"All of humanity's problems stem from man's inability to sit quietly in a room alone."** - Blaise Pascal
-* "You have to figure out where you've got an edge. And you have to play within your own **circle of competence**." - Charlie Munger
+> "Nothing is more convincing than your own beliefs." - VA (introspection illusion)
+
+> "Forget trying to amass al the data. Do your best to get by with the bare facts." - VA (information bias)
+
+> "People readily believe what they want to believe." - Julius Caesar
+
+> **"All of humanity's problems stem from man's inability to sit quietly in a room alone."** - Blaise Pascal
+
+> "You have to figure out where you've got an edge. And you have to play within your own **circle of competence**." - Charlie Munger
 * "What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact." - Warren Buffet
 * **"Beware of the people who moralize about great issues; moralizing is easier than facing hard facts."** - John Corry
 * "Everything I'm not made me everything I am." - Kanye West
