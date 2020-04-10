@@ -27,22 +27,37 @@ Aristotle:
 
 > "Potters envy potters." 
 
-VA (introspection illusion)
+VA (introspection illusion):
+
 > "Nothing is more convincing than your own beliefs." 
 
-> "Forget trying to amass al the data. Do your best to get by with the bare facts." **- VA (information bias)**
+VA (information bias):
 
-> "People readily believe what they want to believe." **- Julius Caesar**
+> "Forget trying to amass al the data. Do your best to get by with the bare facts."
 
-> **"All of humanity's problems stem from man's inability to sit quietly in a room alone."** **- Blaise Pascal**
+Julius Caesar:
 
-> "You have to figure out where you've got an edge. And you have to play within your own **circle of competence**." **- Charlie Munger**
+> "People readily believe what they want to believe."
 
-> "What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact." **- Warren Buffet**
+Blaise Pascal:
 
-> **"Beware of the people who moralize about great issues; moralizing is easier than facing hard facts."** **- John Corry**
+> **"All of humanity's problems stem from man's inability to sit quietly in a room alone."**
 
-> "Everything I'm not made me everything I am." **- Kanye West**
+Charlie Munger:
+
+> "You have to figure out where you've got an edge. And you have to play within your own **circle of competence**."
+
+Warren Buffet:
+
+> "What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact."
+
+John Corry:
+
+> **"Beware of the people who moralize about great issues; moralizing is easier than facing hard facts."**
+
+Kanye West:
+
+> "Everything I'm not made me everything I am."
 
 > "Life does not ask us what we want, it presents us with options." **- Thomas Sowell**
 
