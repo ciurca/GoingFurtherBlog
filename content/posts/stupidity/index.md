@@ -43,7 +43,10 @@ Luckily, stupid people are usually consistent. If they do something intelligent,
 
 In order to minimize the rise of stupid people in positions of power you need to have certain societal values that promote not the show-off, but the cool-headed rational. Not the stupid, the intelligent. Actions, not words. The entrepreneur, not the rent-seeker (although some might be bandits, a lot of them are very stupid). It's important to make sure that when we take a certain action, we can help others as well. That we are intelligent in that sense.
 
-And so, in conclusion, I'm going to leave you with a quote by the great Marcus Aurelius: 
+And so, in conclusion, I'm going to leave you with a quote by the great Marcus Aurelius:
+
 > **Waste no** more **time** arguing what a good man should be. Be one.
 
+Quote break.
 
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
