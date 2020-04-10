@@ -14,8 +14,8 @@ Some of these are also notes in the form of quotes, you'll be able to distinguis
 
 ## The list
 
-> “Nothing costs nothing.” - VA
-
+> “Nothing costs nothing.” 
+- VA
 
 > "Potters envy potters." - Aristotle
 
