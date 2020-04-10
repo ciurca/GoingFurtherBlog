@@ -27,7 +27,8 @@ Aristotle:
 
 > "Potters envy potters." 
 
-> "Nothing is more convincing than your own beliefs." **- VA** (introspection illusion)
+VA (introspection illusion)
+> "Nothing is more convincing than your own beliefs." 
 
 > "Forget trying to amass al the data. Do your best to get by with the bare facts." **- VA (information bias)**
 
