@@ -1,10 +1,3 @@
-+++
-date = 2020-03-06T22:00:00Z
-displayInList = true
-displayInMenu = true
-dropCap = true
-title = "About Going Further"
-
 ---
 title: "About Going Further"
 date: 2020-03-06
