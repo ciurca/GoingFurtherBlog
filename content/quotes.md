@@ -1,11 +1,17 @@
-+++
-date = 2020-03-07T22:00:00Z
-displayInList = true
-displayInMenu = true
-dropCap = true
-title = "Quotes"
-
-+++
+---
+title: "Are you underestimating the amount of stupidity around you?"
+date: 2020-03-10
+description: "My favorite quotes. I update this list constantly."
+dropCap: true
+displayInMenu: false
+displayInList: true
+draft: false
+resources:
+- name: featuredImage
+  src: "bb1.png"
+  params:
+    description: "Quotes"
+---
 This is a list of quotes (and some notes) that I'm constantly updating, taken from different things that I’ve read, listened or watched. I believe that a quote gives you an insight into **how and what that particular person thinks**.
 
 If a quote doesn’t necessarily have an author or if it’s a common saying I’ll put **VA** besides it (Various Authors). If you see a quote that you know for a fact has a certain author, you can let me know on Twitter @raduciurca.
@@ -41,5 +47,7 @@ Some of these are also notes in the form of quotes, you'll be able to distinguis
 > "Nothing changes if nothing changes." **- VA**
 
 > “**No one can lose either the past or the future** - how **could** anyone be deprived of what he does not possess? ... It is only the present moment of which **either** stands to be deprived: and if this is all he has, he cannot **lose** what he does not have.” **- Marcus Aurelius**
+
+>"Our intuition about what's hard and easy is really flawed as human beings." **- Lex Fridman**
 
 The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter **@raduciurca**, for more thoughts and ideas. We will be **going further**.
