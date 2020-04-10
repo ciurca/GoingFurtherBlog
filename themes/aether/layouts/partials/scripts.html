@@ -3,3 +3,14 @@
     onload="renderMathInElement(document.body);"></script>
   {{ $corejs := resources.Get "js/core.js" | minify }}
   <script src="{{ $corejs.Permalink }}"></script>
+<!-- Load Zooming library -->
+<script src="https://unpkg.com/zooming/build/zooming.min.js"></script>
+
+<script>
+  // Listen to images after DOM content is fully loaded
+  document.addEventListener('DOMContentLoaded', function () {
+    new Zooming({
+      // options...
+    }).listen('.img-zoomable')
+  })
+</script>
