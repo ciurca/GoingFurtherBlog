@@ -14,8 +14,10 @@ Some of these are also notes in the form of quotes, you'll be able to distinguis
 
 ## The list
 
-* “Nothing costs nothing.” - VA
-* "Potters envy potters." - Aristotle
+> “Nothing costs nothing.” - VA
+
+> "Potters envy potters." - Aristotle
+
 * "Nothing is more convincing than your own beliefs." - VA (introspection illusion)
 * "Forget trying to amass al the data. Do your best to get by with the bare facts." - VA (information bias)
 * "People readily believe what they want to believe." - Julius Caesar
