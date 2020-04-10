@@ -19,10 +19,13 @@ If a quote doesn’t necessarily have an author or if it’s a common saying I�
 Some of these are also notes in the form of quotes, you'll be able to distinguish them.
 
 ## The list
+VA:
 
-> “Nothing costs nothing.” **- VA**
+> “Nothing costs nothing.” 
 
-> "Potters envy potters." **- Aristotle**
+Aristotle:
+
+> "Potters envy potters." 
 
 > "Nothing is more convincing than your own beliefs." **- VA** (introspection illusion)
 
