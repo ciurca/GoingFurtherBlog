@@ -5,9 +5,9 @@ canonifyurls = true
 paginate = 3
 theme = "aether"
 googleAnalytics = "UA-159982567-1"
-
+disqusShortname = "ciurca"
 [params]
 brand = "Going Further"
 description = "Radu Ciurca's blog"
 bgimg = "img/ignasi_pattern_s.png"
-disqusShortname = "raduciurca"
+
