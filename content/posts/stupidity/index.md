@@ -15,7 +15,7 @@ resources:
 ---
 You encounter more stupid people every day than you think, you may just not realize it. I'm going to help you find them.
 
-First, we need to define what a stupid person is. In his short book {{< target-blank "@raduciurca" "https://twitter.com/raduciurca" >}}, Carlo Cipolla describes a stupid person as follows:
+First, we need to define what a stupid person is. In his short book {{< target-blank "'The Basic Laws of Human Stupidity'" "https://www.amazon.co.uk/Basic-Laws-Human-Stupidity-International-ebook/dp/B07WVVMGBB/ref=sr_1_1?dchild=1&keywords=cipolla&qid=1586529708&sr=8-1" >}}, Carlo Cipolla describes a stupid person as follows:
 
 > A stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and even possibly incurring losses.
 
