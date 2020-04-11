@@ -79,4 +79,8 @@ Lex Fridman:
 
 >"Our intuition about what's hard and easy is really flawed as human beings."
 
+Horace:
+
+>"Sapere aude." (Dare to know/Dare to think for yourself!)
+
 The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter {{< target-blank "@raduciurca" "https://twitter.com/raduciurca" >}}, for more thoughts and ideas. We will be **going further**.
