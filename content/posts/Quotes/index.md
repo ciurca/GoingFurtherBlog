@@ -84,4 +84,5 @@ Horace:
 >"Sapere aude." (Dare to know/Dare to think for yourself!)
 
 Last updated: {{ now.Format "Monday, January 2, 2006"}}
+
 The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter {{< target-blank "@raduciurca" "https://twitter.com/raduciurca" >}}, for more thoughts and ideas. We will be **going further**.
