@@ -10,7 +10,7 @@ enableRobotsTXT = true
 [params]
 brand = "Going Further"
 description = "Radu Ciurca - Going Further - Blog, Essays and Posts"
-keywords:
+keywords: "
   - Going Further
   - blog
   - Radu Ciurca
@@ -18,4 +18,5 @@ keywords:
   - Radu Ciurca blog
   - Radu Ciurca Going Further
   - Going Further Radu Ciurca
+  "
 bgimg = "img/ignasi_pattern_s.png"
