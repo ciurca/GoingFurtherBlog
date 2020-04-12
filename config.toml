@@ -11,6 +11,3 @@ enableRobotsTXT = true
 brand = "Going Further"
 description = "Radu Ciurca - Going Further - Blog, Essays and Posts"
 bgimg = "img/ignasi_pattern_s.png"
-twitterHandle = "raduciurca"
-shareOnLinkedIn = true
-shareOnTwitter = true
