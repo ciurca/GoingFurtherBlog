@@ -1,7 +1,7 @@
 baseurl = "https://blog.raduciurca.com"
 title = "Going Further"
 author = "Radu Ciurca"
-descritpion = "Radu Ciurca - Going Further - Blog, Essays and Posts 
+description = "Radu Ciurca - Going Further - Blog, Essays and Posts"
 canonifyurls = true
 paginate = 3
 theme = "aether"
