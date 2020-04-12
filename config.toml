@@ -1,7 +1,6 @@
 baseurl = "https://blog.raduciurca.com"
 title = "Going Further"
 author = "Radu Ciurca"
-description = "Radu Ciurca - Going Further - Blog, Essays and Posts"
 canonifyurls = true
 paginate = 3
 theme = "aether"
@@ -10,5 +9,5 @@ enableRobotsTXT = true
 #disqusShortname = "ciurca"
 [params]
 brand = "Going Further"
-description = "Radu Ciurca's blog"
+description = "Radu Ciurca - Going Further - Blog, Essays and Posts"
 bgimg = "img/ignasi_pattern_s.png"
