@@ -5,6 +5,7 @@ canonifyurls = true
 paginate = 3
 theme = "aether"
 googleAnalytics = "UA-159982567-1"
+enableRobotsTXT = true
 #disqusShortname = "ciurca"
 [params]
 brand = "Going Further"
