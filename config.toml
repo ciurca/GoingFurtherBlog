@@ -7,6 +7,9 @@ theme = "aether"
 googleAnalytics = "UA-159982567-1"
 enableRobotsTXT = true
 #disqusShortname = "ciurca"
+twitterHandle = "raduciurca"
+shareOnLinkedIn = true
+shareOnTwitter = true
 [params]
 brand = "Going Further"
 description = "Radu Ciurca - Going Further - Blog, Essays and Posts"
