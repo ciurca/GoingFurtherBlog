@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - Going Further</title>
+    <link>https://blog.raduciurca.com/categories/</link>
+    <description>Recent content in Categories on Going Further</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.raduciurca.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>stupidity</title>
+      <link>https://blog.raduciurca.com/categories/stupidity/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.raduciurca.com/categories/stupidity/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

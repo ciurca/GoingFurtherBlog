@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - Going Further</title>
+    <link>https://blog.raduciurca.com/posts/</link>
+    <description>Recent content in Posts on Going Further</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.raduciurca.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Are you underestimating the amount of stupidity around you?</title>
+      <link>https://blog.raduciurca.com/posts/consuming/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.raduciurca.com/posts/consuming/</guid>
+      <description>You encounter more stupid people every day than you think, you may just not realize it. I&#39;m going to help you find them.</description>
+    </item><item>
+      <title>Are you underestimating the amount of stupidity around you?</title>
+      <link>https://blog.raduciurca.com/posts/stupidity/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.raduciurca.com/posts/stupidity/</guid>
+      <description>You encounter more stupid people every day than you think, you may just not realize it. I&#39;m going to help you find them.</description>
+    </item><item>
+      <title>Quotes</title>
+      <link>https://blog.raduciurca.com/posts/quotes/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.raduciurca.com/posts/quotes/</guid>
+      <description>My favorite quotes. I update this list constantly.</description>
+    </item>
+  </channel>
+</rss>
