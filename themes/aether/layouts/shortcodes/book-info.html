@@ -17,7 +17,7 @@
     <img src="" id='imageASIN'>
     <div class="text">
       <h3><strong>{{ .Get "title" }}</strong></h3>
-      <div>{{ .Get "author" }}</div>
+      <div>by <i>{{ .Get "author" }}</i></div>
       <a href="{{ .Get `linkUS` }}" target="_blank" rel="noopener noreferrer">Amazon US</a>
       <br>
       <a href="" target="_blank" rel="noopener noreferrer" id="ukLink">Amazon UK</a>
